@@ -1,0 +1,25 @@
+================================================================================
+ZVT 4 FORÇAS FUNDAMENTAIS HUNTER - RELATÓRIO COMPREENSIVO
+================================================================================
+
+Data: 2025-08-10T12:34:37.263997
+Versão: Four Forces Hunter v1.0
+Lote Final: #412
+Zeros Analisados: 412,000
+Arquivo de Origem: /home/jeff/zeta/zero.txt
+
+CONFIGURAÇÃO DAS 4 FORÇAS FUNDAMENTAIS:
+  Eletromagnetica: 7.297352569283802e-03 (tolerâncias: 1e-04, 1e-05, 1e-06, 1e-07, 1e-08, 1e-09)
+  Forte: 1.185000000000000e-01 (tolerâncias: 1e-02, 1e-03, 1e-04, 1e-05, 1e-06, 1e-07)
+  Fraca: 3.380000000000000e-02 (tolerâncias: 1e-03, 1e-04, 1e-05, 1e-06, 1e-07, 1e-08)
+  Gravitacional: 5.906000000000000e-39 (tolerâncias: 1e-38, 1e-39, 1e-40, 1e-41, 1e-42, 1e-43)
+
+Precisão: 50 casas decimais
+
+CRITÉRIOS DE SIGNIFICÂNCIA:
+  min_resonances: 10
+  min_significance_factor: 2.0
+  max_p_value: 0.01
+  min_chi2_stat: 6.635
+
+================================================================================

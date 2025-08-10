@@ -1,0 +1,60 @@
+================================================================================
+ZVT ESTRUTURA FINA HUNTER - RELATÓRIO COMPREENSIVO
+================================================================================
+
+Data: 2025-08-10T00:00:04.480452
+Versão: File Loader v2.1
+Lote Final: #2002
+Zeros Analisados: 2,001,052
+Arquivo de Origem: /home/jeff/Downloads/zero.txt
+
+CONFIGURAÇÃO:
+Constante de Estrutura Fina: 0.007297352569284
+Tolerâncias: [0.0001, 1e-05, 1e-06, 1e-07, 1e-08, 1e-09]
+Tolerância Padrão: 1e-05
+Precisão: 50 casas decimais
+
+ANÁLISE MULTI-TOLERÂNCIA:
+| Tolerância | Ressonâncias | Taxa (%) | Melhor Qualidade | Significância |
+|------------|--------------|----------|------------------|---------------|
+|    1e-04 |      55094 |    2.753 |   9.091e-10 |     1.00x |
+|    1e-05 |       5478 |    0.274 |   9.091e-10 |     1.00x |
+|    1e-06 |        571 |    0.029 |   9.091e-10 |     1.04x |
+|    1e-07 |         58 |    0.003 |   9.091e-10 |     1.06x |
+|    1e-08 |          8 |    0.000 |   9.091e-10 |     1.46x |
+|    1e-09 |          1 |    0.000 |   9.091e-10 |     1.82x |
+
+COMPARAÇÃO DE CONSTANTES (Tolerância: 1e-05):
+| Constante     | Valor      | Ressonâncias | Taxa (%) | Significância |
+|---------------|------------|--------------|----------|---------------|
+| fine_structure |   0.007297 |       5478 |    0.274 |     1.00x |
+| random_1      |   0.007008 |       5588 |    0.279 |     0.98x |
+| random_2      |   0.007734 |       5114 |    0.256 |     0.99x |
+| random_3      |   0.007622 |       5302 |    0.265 |     1.01x |
+| random_4      |   0.006906 |       5765 |    0.288 |     0.99x |
+| golden_ratio  |   0.618034 |         55 |    0.003 |     0.85x |
+| pi_scale      |   0.031416 |       1324 |    0.066 |     1.04x |
+| e_scale       |   0.027183 |       1453 |    0.073 |     0.99x |
+
+MELHOR RESSONÂNCIA:
+Índice do Zero: #118,412
+Valor Gamma: 87144.85303004000161308795
+Qualidade: 9.09126119871817017781e-10
+Erro Relativo: 0.000012458301%
+Energia Prevista: 8714.485 GeV
+
+RESUMO ESTATÍSTICO:
+  Zeros Totais: 2,001,052
+  Zeros Ressonantes: 5,478
+  Esperado por Acaso: 5484.3
+  Taxa de Ressonância: 0.273756%
+  Significância: 0.999x
+  Qui-quadrado: χ² = 0.007, p = 0.931956
+  Binomial: p = 0.940715
+
+RECOMENDAÇÕES:
+1. Verificar resultados com diferentes tolerâncias
+2. Investigar conexões com a constante de estrutura fina
+3. Considerar cálculos com maior precisão
+4. Analisar padrões de distribuição dos zeros
+================================================================================

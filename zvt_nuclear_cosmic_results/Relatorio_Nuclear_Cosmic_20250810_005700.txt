@@ -1,0 +1,74 @@
+================================================================================
+ZVT NUCLEAR & COSMIC FORCES HUNTER - RELATÓRIO COMPREENSIVO
+================================================================================
+
+Data: 2025-08-10T00:57:32.432561
+Versão: Nuclear & Cosmic Hunter v1.0
+Lote Final: #2002
+Zeros Analisados: 2,001,052
+Arquivo de Origem: /home/jeff/Downloads/zero.txt
+
+CONFIGURAÇÃO FORÇAS NUCLEARES & COSMOLOGIA:
+Constante de Acoplamento Forte (α_s): 0.118000000000000
+Constante de Fermi (G_F): 1.166378700000000e-05 GeV⁻²
+Escala QCD (Λ_QCD): 0.217000000000000 GeV
+Ângulo de Weinberg (sin²θ_W): 0.231220000000000
+Massa do Higgs: 125.099999999999994 GeV
+Massa do Bóson W: 80.379000000000005 GeV
+Massa do Bóson Z: 91.187600000000003 GeV
+Constante de Hubble (H₀): 2.268000000000000e-18 s⁻¹
+Temperatura CMB: 2.725480000000000 K
+Constante Cosmológica (Λ): 1.100000000000000e-52 m⁻²
+Densidade Crítica: 9.470000000000000e-27 kg/m³
+Tolerâncias: [1e-06, 1e-07, 1e-08, 1e-09, 1e-10, 1e-11]
+Tolerância Padrão: 1e-08
+Precisão: 50 casas decimais
+
+ANÁLISE MULTI-TOLERÂNCIA (FORÇAS NUCLEARES & COSMOLOGIA):
+| Tolerância | Ressonâncias | Taxa (%) | Melhor Qualidade | Significância |
+|------------|--------------|----------|------------------|---------------|
+|    1e-06 |          1 |    0.000 |   5.771e-08 |     0.25x |
+|    1e-07 |          1 |    0.000 |   5.771e-08 |     2.50x |
+|    1e-08 |          0 |    0.000 |         N/A |      N/Ax |
+|    1e-09 |          0 |    0.000 |         N/A |      N/Ax |
+|    1e-10 |          0 |    0.000 |         N/A |      N/Ax |
+|    1e-11 |          0 |    0.000 |         N/A |      N/Ax |
+
+COMPARAÇÃO FORÇAS NUCLEARES & COSMOLOGIA (Tolerância: 1e-08):
+| Constante           | Valor              | Ressonâncias | Taxa (%) | Significância |
+|---------------------|--------------------|--------------|----------|---------------|
+| strong_force        | 11.800000          |          0 |    0.000 |     0.00x |
+| weak_force          | 1.166379           |          0 |    0.000 |     0.00x |
+| qcd_scale           | 2.170000           |          0 |    0.000 |     0.00x |
+| weinberg_angle      | 23.122000          |          0 |    0.000 |     0.00x |
+| strong_em_ratio     | 16.170248          |          0 |    0.000 |     0.00x |
+| higgs_mass          | 12.510000          |          0 |    0.000 |     0.00x |
+| w_boson             | 8.037900           |          0 |    0.000 |     0.00x |
+| z_boson             | 9.118760           |          0 |    0.000 |     0.00x |
+| top_quark           | 17.310000          |          0 |    0.000 |     0.00x |
+| electroweak         | 24.600000          |          0 |    0.000 |     0.00x |
+| hubble_const        | 2.268000           |          0 |    0.000 |     0.00x |
+| cmb_temp            | 2.725480           |          0 |    0.000 |     0.00x |
+| lambda_cosmo        | 1.100000           |          0 |    0.000 |     0.00x |
+| critical_dens       | 9.470000           |          0 |    0.000 |     0.00x |
+| cosmic_age          | 13.971820          |          0 |    0.000 |     0.00x |
+| dark_matter         | 3.150000           |          0 |    0.000 |     0.00x |
+| dark_energy         | 6.850000           |          0 |    0.000 |     0.00x |
+| baryons             | 4.930000           |          0 |    0.000 |     0.00x |
+| radiation           | 9.200000           |          0 |    0.000 |     0.00x |
+| planck_mass         | 1.220000           |          0 |    0.000 |     0.00x |
+| random_1            | 11.500000          |          0 |    0.000 |     0.00x |
+| random_2            | 2.500000           |          0 |    0.000 |     0.00x |
+| random_3            | 24.800000          |          0 |    0.000 |     0.00x |
+| random_4            | 14.200000          |          0 |    0.000 |     0.00x |
+
+NENHUMA RESSONÂNCIA NUCLEAR/CÓSMICA ENCONTRADA nas tolerâncias testadas.
+
+
+IMPLICAÇÕES PARA AS 4 FORÇAS FUNDAMENTAIS:
+1. Investigar força nuclear forte e confinamento de quarks
+2. Analisar força nuclear fraca e decaimentos radioativos
+3. Explorar conexões com modelo padrão da física de partículas
+4. Considerar implicações cosmológicas e estrutura em grande escala
+5. Avaliar unificação completa das forças fundamentais
+================================================================================

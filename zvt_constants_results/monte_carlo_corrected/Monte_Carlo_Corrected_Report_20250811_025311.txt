@@ -1,0 +1,43 @@
+================================================================================
+ZVT MONTE CARLO CORRIGIDO - TESTE DAS CONSTANTES REAIS
+================================================================================
+
+Data: 2025-08-11T02:53:11.666058
+Simulações por nível: 5,000
+Níveis de perturbação testados: [0.001, 0.01, 0.1, 1.0]
+Zeros utilizados: 2,001,052
+
+PERGUNTA CIENTÍFICA:
+--------------------------------------------------
+Os valores EXATOS das constantes físicas são especiais?
+Ou pequenas variações também produziriam padrões similares?
+
+PADRÕES TESTADOS:
+--------------------------------------------------
+1. Hierarquia Cosmológica: Cosmologia > Eletrofraca > Nuclear
+2. Unicidade: Uma ressonância claramente melhor por constante
+3. Concentração Energética: ~100 TeV
+
+RESULTADOS POR NÍVEL DE PERTURBAÇÃO:
+--------------------------------------------------
+| Perturbação | Hierarquia | Unicidade | Energia | Interpretação |
+|-------------|------------|-----------|---------|---------------|
+|       0.1% |      0.8% |   100.0% | 100.0% | Parcialmente preservado |
+|       1.0% |      1.4% |   100.0% | 100.0% | Parcialmente preservado |
+|      10.0% |      1.0% |   100.0% | 100.0% | Parcialmente preservado |
+|     100.0% |      0.7% |   100.0% | 100.0% | Parcialmente preservado |
+
+ANÁLISE ESTATÍSTICA:
+--------------------------------------------------
+❌ PADRÕES NÃO ROBUSTOS:
+   • Nenhum nível mantém padrões consistentemente
+   • Pequenas variações destroem a estrutura
+   • Sugere coincidência estatística
+
+CONCLUSÕES:
+--------------------------------------------------
+🎯 RESULTADO: PADRÕES NÃO ROBUSTOS
+Os padrões observados não resistem a pequenas perturbações.
+Sugere que as 'ressonâncias' são coincidências estatísticas
+devidas ao grande espaço de busca.
+================================================================================

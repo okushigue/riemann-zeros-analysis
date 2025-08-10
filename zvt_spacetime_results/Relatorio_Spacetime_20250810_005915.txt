@@ -1,0 +1,67 @@
+================================================================================
+ZVT SPACETIME CONSTANTS RESONANCE HUNTER - RELATÓRIO COMPREENSIVO
+================================================================================
+
+Data: 2025-08-10T00:59:40.799576
+Versão: Spacetime Constants Hunter v1.0
+Lote Final: #2002
+Zeros Analisados: 2,001,052
+Arquivo de Origem: /home/jeff/Downloads/zero.txt
+
+CONFIGURAÇÃO CONSTANTES ESPAÇO-TEMPO:
+Constante de Boltzmann (k_B): 1.380649000000000e-23 J/K
+Carga Elementar (e): 1.602176634000000e-19 C
+Permissividade do Vácuo (ε₀): 8.854187812800001e-12 F/m
+Permeabilidade do Vácuo (μ₀): 1.256637061435917e-06 H/m
+Massa do Elétron (m_e): 9.109383701500001e-31 kg
+Massa do Próton (m_p): 1.672621923690000e-27 kg
+Impedância do Vácuo: 376.730313564320227 Ω
+Constante de Stefan-Boltzmann: 5.670374419000000e-08 W⋅m⁻²⋅K⁻⁴
+Número de Avogadro: 6.022140760000000e+23 mol⁻¹
+Tolerâncias: [1e-06, 1e-07, 1e-08, 1e-09, 1e-10, 1e-11]
+Tolerância Padrão: 1e-08
+Precisão: 50 casas decimais
+
+ANÁLISE MULTI-TOLERÂNCIA (CONSTANTES ESPAÇO-TEMPO):
+| Tolerância | Ressonâncias | Taxa (%) | Melhor Qualidade | Significância |
+|------------|--------------|----------|------------------|---------------|
+|    1e-06 |          4 |    0.000 |   5.787e-07 |     1.00x |
+|    1e-07 |          0 |    0.000 |         N/A |      N/Ax |
+|    1e-08 |          0 |    0.000 |         N/A |      N/Ax |
+|    1e-09 |          0 |    0.000 |         N/A |      N/Ax |
+|    1e-10 |          0 |    0.000 |         N/A |      N/Ax |
+|    1e-11 |          0 |    0.000 |         N/A |      N/Ax |
+
+COMPARAÇÃO DE CONSTANTES ESPAÇO-TEMPO (Tolerância: 1e-08):
+| Constante         | Valor              | Ressonâncias | Taxa (%) | Significância |
+|-------------------|--------------------|--------------|----------|---------------|
+| boltzmann         | 1.380649           |          0 |    0.000 |     0.00x |
+| stefan_boltz      | 5.670374           |          0 |    0.000 |     0.00x |
+| gas_constant      | 0.831446           |          0 |    0.000 |     0.00x |
+| avogadro          | 6.022141           |          0 |    0.000 |     0.00x |
+| thermal_room      | 4.141947           |          0 |    0.000 |     0.00x |
+| elem_charge       | 1.602177           |          0 |    0.000 |     0.00x |
+| epsilon_0         | 8.854188           |          1 |    0.000 |    24.99x |
+| mu_0              | 12.566371          |          0 |    0.000 |     0.00x |
+| impedance_vac     | 37.673031          |          0 |    0.000 |     0.00x |
+| electron_volt     | 1.602177           |          0 |    0.000 |     0.00x |
+| mass_electron     | 9.109384           |          0 |    0.000 |     0.00x |
+| mass_proton       | 1.672622           |          0 |    0.000 |     0.00x |
+| mass_neutron      | 1.674927           |          0 |    0.000 |     0.00x |
+| mass_ratio_pe     | 18.361527          |          0 |    0.000 |     0.00x |
+| compton_electron  | 2.426310           |          0 |    0.000 |     0.00x |
+| random_1          | 1.500000           |          0 |    0.000 |     0.00x |
+| random_2          | 5.800000           |          0 |    0.000 |     0.00x |
+| random_3          | 12.300000          |          0 |    0.000 |     0.00x |
+| random_4          | 37.200000          |          0 |    0.000 |     0.00x |
+
+NENHUMA RESSONÂNCIA ESPAÇO-TEMPO ENCONTRADA nas tolerâncias testadas.
+
+
+IMPLICAÇÕES PARA FÍSICA FUNDAMENTAL:
+1. Investigar conexões entre zeros de Riemann e termodinâmica
+2. Analisar relações com eletromagnetismo fundamental
+3. Considerar implicações para estrutura atômica e molecular
+4. Explorar conexões com propriedades do vácuo quântico
+5. Avaliar potencial para unificação das constantes fundamentais
+================================================================================

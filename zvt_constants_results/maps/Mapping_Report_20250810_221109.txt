@@ -1,0 +1,42 @@
+================================================================================
+ZVT DATA MAPPER - RELATÓRIO DE MAPEAMENTO
+================================================================================
+
+Data: 2025-08-10T22:11:09.593754
+Zeros analisados: 2,001,052
+Constantes mapeadas: 19
+
+ESTATÍSTICAS GERAIS:
+Melhor qualidade: 1.69e-45
+Pior qualidade: 8.05e-04
+Energia média: 63516.66 GeV
+Energia mediana: 70320.99 GeV
+
+TOP 5 MELHORES RESSONÂNCIAS:
+1. gravitacional: 2.86e-05% erro
+   Zero #1,593,106, γ=918912.088619
+2. fermi_coupling: 7.11e-06% erro
+   Zero #1,470,480, γ=853930.383040
+3. eletromagnetica: 1.25e-05% erro
+   Zero #118,412, γ=87144.853030
+4. dark_energy: 5.86e-07% erro
+   Zero #735,953, γ=453891.053500
+5. forte: 4.20e-06% erro
+   Zero #1,978,224, γ=1120633.644000
+
+POR CATEGORIA:
+Forças Fundamentais: Melhor = gravitacional (2.86e-05%)
+Unificação Eletrofraca: Melhor = fermi_coupling (7.11e-06%)
+Razões de Massa: Melhor = neutron_proton (2.07e-05%)
+Cosmologia: Melhor = dark_energy (5.86e-07%)
+Magnéticas: Melhor = gyromagnetic_proton (1.82e-05%)
+Matemáticas: Melhor = euler_mascheroni (9.70e-06%)
+
+ARQUIVOS GERADOS:
+- energy_vs_quality_map.png
+- hierarchy_tree_map.png
+- energy_landscape_map.png
+- physics_network_map.png
+- clustering_analysis_map.png
+- statistical_summary_map.png
+================================================================================

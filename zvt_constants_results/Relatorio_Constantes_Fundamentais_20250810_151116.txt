@@ -1,0 +1,73 @@
+================================================================================
+ZVT CONSTANTES FUNDAMENTAIS HUNTER - RELATÓRIO COMPREENSIVO
+================================================================================
+
+Data: 2025-08-10T15:11:16.835294
+Versão: Fundamental Constants Hunter v1.0
+Lote Final: #201
+Zeros Analisados: 2,001,052
+Arquivo de Origem: /home/jeff/zeta/zero.txt
+
+CONFIGURAÇÃO DAS CONSTANTES FUNDAMENTAIS:
+
+4 FORÇAS FUNDAMENTAIS:
+  eletromagnetica: 7.297352569283802e-03 (tolerâncias: 1e-04, 1e-05, 1e-06)
+  forte: 1.185000000000000e-01 (tolerâncias: 1e-02, 1e-03, 1e-04)
+  fraca: 3.380000000000000e-02 (tolerâncias: 1e-03, 1e-04, 1e-05)
+  gravitacional: 5.906000000000000e-39 (tolerâncias: 1e-38, 1e-39, 1e-40)
+
+ALTA PRIORIDADE:
+  weinberg_angle: 2.312000000000000e-01 (tolerâncias: 1e-03, 1e-04, 1e-05)
+  proton_electron: 1.836152673430000e+03 (tolerâncias: 1e-01, 1e-02, 1e-03)
+  euler_mascheroni: 5.772156649000000e-01 (tolerâncias: 1e-03, 1e-04, 1e-05)
+  fermi_coupling: 1.166378700000000e-05 (tolerâncias: 1e-06, 1e-07, 1e-08)
+
+RAZÕES DE MASSAS:
+  muon_electron: 2.067682826000000e+02 (tolerâncias: 1e-02, 1e-03, 1e-04)
+  tau_electron: 3.477150000000000e+03 (tolerâncias: 1e-01, 1e-02, 1e-03)
+  neutron_proton: 1.001378419310000e+00 (tolerâncias: 1e-04, 1e-05, 1e-06)
+
+COSMOLÓGICAS:
+  dark_energy: 6.847000000000000e-01 (tolerâncias: 1e-03, 1e-04, 1e-05)
+  dark_matter: 2.589000000000000e-01 (tolerâncias: 1e-03, 1e-04, 1e-05)
+  baryon_density: 4.860000000000000e-02 (tolerâncias: 1e-04, 1e-05, 1e-06)
+  hubble_reduced: 6.736000000000000e-01 (tolerâncias: 1e-03, 1e-04, 1e-05)
+  sigma8: 8.111000000000000e-01 (tolerâncias: 1e-03, 1e-04, 1e-05)
+
+MAGNÉTICAS:
+  gyromagnetic_proton: 2.792847350800000e+00 (tolerâncias: 1e-02, 1e-03, 1e-04)
+  gyromagnetic_neutron: 1.913042700000000e+00 (tolerâncias: 1e-02, 1e-03, 1e-04)
+  magnetic_moment_ratio: 3.152451260500000e+00 (tolerâncias: 1e-02, 1e-03, 1e-04)
+
+Precisão: 50 casas decimais
+
+CRITÉRIOS DE SIGNIFICÂNCIA:
+  min_resonances: 10
+  min_significance_factor: 2.0
+  max_p_value: 0.01
+  min_chi2_stat: 6.635
+
+Total de constantes analisadas: 19
+================================================================================
+
+RESUMO ESTATÍSTICO POR CATEGORIA:
+
+4 FORÇAS FUNDAMENTAIS:
+  Média das qualidades: 7.457428e-09
+  Desvio padrão: 9.699492e-09
+
+ALTA PRIORIDADE:
+  Média das qualidades: 1.375498e-05
+  Desvio padrão: 2.378685e-05
+
+RAZÕES DE MASSAS:
+  Média das qualidades: 2.835128e-04
+  Desvio padrão: 3.689410e-04
+
+COSMOLÓGICAS:
+  Média das qualidades: 4.241325e-08
+  Desvio padrão: 3.423744e-08
+
+MAGNÉTICAS:
+  Média das qualidades: 5.883895e-07
+  Desvio padrão: 1.038568e-07

@@ -1,0 +1,17 @@
+
+=== RELATÓRIO DE ANÁLISE AVANÇADA ===
+
+1. TESTE DE ALEATORIEDADE:
+   - KS p-value: 1.127e-212 → NÃO aleatório
+
+2. RESSONÂNCIAS FÍSICAS:
+   - Distância média real: 9.445e+13
+   - p-value: 1.0000 (não significativo)
+
+3. DETALHES DAS RESSONÂNCIAS:
+   - gravitacional: Zero #1000 
+     γ = 1419.42248, Alvo = 283361810335690.25000, Δ = 2.834e+14
+   - fermi_coupling: Zero #1000 
+     γ = 1419.42248, Alvo = 167797915.51355, Δ = 1.678e+08
+   - eletromagnetica: Zero #47 
+     γ = 138.11604, Alvo = 137.03600, Δ = 1.080e+00
